@@ -1,0 +1,17 @@
+How to Run the Code?
+
+Basically there are 3 Python Files: 
+	1. Back-end --> Database Creation
+        2. EDA  
+        3. Front-end --> The code for recommender system and Dash app
+ 
+Note:
+  A. Back-end :
+  As our dataset is fetched from different links of imdb website.So the url's are manually changed everytime as   we want variety of data like bollywood,hollywood,chinese,TV Shows.Hence it is prefered that database code     shouldn't be run at first as it will differ from the output presented.The code runs absolutely fine and can   be checked at the end.
+
+  B. Front-end:
+  1.Please run the app on http://127.0.0.1:8050/
+  2.Search the Movie from text box
+  3.View the trailer by clicking on image of upcoming movies. 
+
+
